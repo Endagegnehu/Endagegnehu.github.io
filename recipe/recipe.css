@@ -1,0 +1,25 @@
+.contents-list, .copyright-list, .comments-list,.comments-list ul{
+    list-style-type: none;
+    padding:0;
+}
+.center {
+    text-align: center;
+    text-decoration: underline;
+}
+em{
+    font-weight: bold;
+    font-style: normal;
+}
+.comments-list{
+    margin-left: 40px;
+}
+.comments-list>li>ul{
+    background-color: #FFFFA8;
+}
+.copyright-list{
+    display: inline-block;
+    justify-content: flex-end
+}
+.copyright-list>li{
+    justify-content: flex-end
+}
