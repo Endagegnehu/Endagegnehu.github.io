@@ -1,4 +1,4 @@
-/* .flag-first{
+.flag-first{
     color: green;
 }
 .flag-second{
@@ -33,9 +33,9 @@ section{
 p { 
     text-color : red; 
     font-Size: 14pt; 
-  } */
+  }
 
-  body { 
+  /* body { 
     background-color: yellow; 
     color: magenta; 
   } 
@@ -45,4 +45,55 @@ p {
   } 
   #item { 
     background-color: cyan; 
-  }
+  } */
+
+  /* div {
+    border: 1px solid black;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+#b {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    width: 200px;
+} */
+
+/* div {
+    border: 1px solid black;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+#a { 
+    position: relative; 
+    top: 100px;
+}
+#b {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    width: 200px;
+}
+#c { 
+    position: fixed; 
+    bottom: 50px;
+    right: 50px;
+} */
+
+#first {
+    border: 4px dashed black;
+    padding: 10px 5px;
+    margin: 20px;
+    height: 50px;
+    background-color: #FAFAFA;
+}
+#second {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    height: 45px;
+    padding: 5px 3px;
+    border: 1px solid green;
+    background-color: #F3F3FF;
+}
