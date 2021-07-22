@@ -1,4 +1,4 @@
-.flag-first{
+/* .flag-first{
     color: green;
 }
 .flag-second{
@@ -19,7 +19,7 @@ body{
 }
 a{
     color: inherit;
-    text-decoration: none;
+    text-decoration: bisque;
 }
 img{
     width: 33%;
@@ -30,3 +30,19 @@ img{
 section{
     font-size: 20px;
 }
+p { 
+    text-color : red; 
+    font-Size: 14pt; 
+  } */
+
+  body { 
+    background-color: yellow; 
+    color: magenta; 
+  } 
+  p { color: orange; } 
+  .central, .item { 
+    color: green;  
+  } 
+  #item { 
+    background-color: cyan; 
+  }
