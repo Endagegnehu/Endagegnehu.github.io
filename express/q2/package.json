@@ -1,0 +1,14 @@
+{
+  "name": "home_work",
+  "version": "1.0.0",
+  "description": "question two ",
+  "main": "yes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
