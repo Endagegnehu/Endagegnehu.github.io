@@ -1,16 +1,3 @@
-// $(function(){
-//     let height = 200;
-//     let width  = 200;
-//     $('.dot').css("border", "3px solid black")
-//     setInterval(()=>{
-//         width+=10;
-//         height+=10;
-//         $('.dot').width(width);
-//         $('.dot').height(width);
-//     },250)
-//     $('.dot').click(()=>$('.dot').remove())
-// });
-
 $(function(){
     const MAX_WIDTH=parseInt($("#circle-container").css("width"));
     const MAX_HEIGHT=parseInt($("#circle-container").css("height"));
